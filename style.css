@@ -1,0 +1,30 @@
+caption{
+    font-weight: bold;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    
+  }
+
+  table{
+    width: 100%;
+  }
+
+  tr{
+    word-spacing: 30px;
+  }
+
+  .spacing{
+    padding-right: 20px;
+  }
+
+  .text{
+    font-style: italic;
+    font-size: 15px;
+  }
